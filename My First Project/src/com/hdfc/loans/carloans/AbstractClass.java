@@ -9,6 +9,7 @@ public class AbstractClass extends Firstabstract {
 	}
 	@Override
 	public void m2() {
-		System.out.println("Abstract method and abstract behaviour");		
+		System.out.println("Abstract method and abstract behaviour");	
+		System.out.println("Commit and push statement");
 	}
 }
